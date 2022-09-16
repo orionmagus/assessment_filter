@@ -1,0 +1,281 @@
+{
+  "dplatforms": [
+    {
+      "id": 8,
+      "code": "microsoft",
+      "title": "Microsoft Windows",
+      "icon": "microsoft"
+    },
+    {
+      "id": 1,
+      "code": "android",
+      "title": "Android (Play Store)",
+      "icon": "google-play"
+    },
+    {
+      "id": 2,
+      "code": "playstation",
+      "title": "Sony Playstation ",
+      "icon": "playstation"
+    },
+    { "id": 3, "code": "xbox", "title": "Microsoft Xbox", "icon": "xbox" },
+    { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" },
+    { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" },
+    { "id": 6, "code": "apple", "title": "Apple Mac Os", "icon": "apple" },
+    {
+      "id": 7,
+      "code": "ios",
+      "title": "IOS (App Store)",
+      "icon": "app-store-ios"
+    }
+  ],
+  "dgames": [
+    {
+      "id": 34,
+      "title": "isonzo",
+      "release_date": "sep 13, 2022",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1556790/capsule_sm_120_alt_assets_0.jpg?t=1663160799",
+      "platforms": [
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" },
+        { "id": 6, "code": "apple", "title": "Apple Mac Os", "icon": "apple" },
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "cyberpunk 2077",
+      "release_date": "dec 9, 2020",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_sm_120.jpg?t=1663072710",
+      "platforms": [
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" },
+        {
+          "id": 1,
+          "code": "android",
+          "title": "Android (Play Store)",
+          "icon": "google-play"
+        },
+        { "id": 3, "code": "xbox", "title": "Microsoft Xbox", "icon": "xbox" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "ace combat™ 7: skies unknown",
+      "release_date": "jan 31, 2019",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/502500/capsule_sm_120.jpg?t=1653601579",
+      "platforms": [
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" },
+        {
+          "id": 8,
+          "code": "microsoft",
+          "title": "Microsoft Windows",
+          "icon": "microsoft"
+        },
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "sea of thieves",
+      "release_date": "jun 3, 2020",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/capsule_sm_120.jpg?t=1663012327",
+      "url": "https://store.steampowered.com/app/1172620/sea_of_thieves/?snr=1_7_7_2300_150_1",
+      "source": "Steam",
+      "platforms": [
+        {
+          "id": 7,
+          "code": "ios",
+          "title": "IOS (App Store)",
+          "icon": "app-store-ios"
+        },
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" },
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "red dead redemption 2",
+      "release_date": "dec 5, 2019",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1656615305",
+      "platforms": [
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" },
+        {
+          "id": 8,
+          "code": "microsoft",
+          "title": "Microsoft Windows",
+          "icon": "microsoft"
+        },
+        { "id": 6, "code": "apple", "title": "Apple Mac Os", "icon": "apple" },
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" },
+        { "id": 3, "code": "xbox", "title": "Microsoft Xbox", "icon": "xbox" },
+        {
+          "id": 2,
+          "code": "playstation",
+          "title": "Sony Playstation ",
+          "icon": "playstation"
+        },
+        {
+          "id": 1,
+          "code": "android",
+          "title": "Android (Play Store)",
+          "icon": "google-play"
+        }
+      ]
+    },
+    {
+      "id": "63220794822d338c743bb766",
+      "title": "Korea (South) Bowen 14",
+      "img": "/assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-compositeA.jpg",
+      "release_date": "2014-11-04T07:48:27.293Z",
+      "platforms": [
+        {
+          "id": 2,
+          "code": "playstation",
+          "title": "Sony Playstation ",
+          "icon": "playstation"
+        },
+        { "id": 6, "code": "apple", "title": "Apple Mac Os", "icon": "apple" },
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" }
+      ]
+    },
+    {
+      "id": "63220794a7402288b2fd2b5f",
+      "title": "Djibouti Moody 12",
+      "img": "/assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-compositeA.jpg",
+      "release_date": "2012-12-02T10:33:37.584Z",
+      "platforms": [
+        {
+          "id": 8,
+          "code": "microsoft",
+          "title": "Microsoft Windows",
+          "icon": "microsoft"
+        },
+        {
+          "id": 2,
+          "code": "playstation",
+          "title": "Sony Playstation ",
+          "icon": "playstation"
+        }
+      ]
+    },
+    {
+      "id": "632207940716e2a24e47b19e",
+      "title": "Morocco Wiley 10",
+      "img": "assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-composite.jpg",
+      "release_date": "2010-06-21T20:36:35.602Z",
+      "platforms": [
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" },
+        {
+          "id": 7,
+          "code": "ios",
+          "title": "IOS (App Store)",
+          "icon": "app-store-ios"
+        },
+        {
+          "id": 1,
+          "code": "android",
+          "title": "Android (Play Store)",
+          "icon": "google-play"
+        }
+      ]
+    },
+    {
+      "id": "632207941797aae23b4cb4b5",
+      "title": "Bangladesh Hogan 13",
+      "img": "assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-composite.jpg",
+      "release_date": "2013-10-16T17:24:38.098Z",
+      "platforms": [
+        {
+          "id": 7,
+          "code": "ios",
+          "title": "IOS (App Store)",
+          "icon": "app-store-ios"
+        },
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" },
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" }
+      ]
+    },
+    {
+      "id": "63220794ab36a0a4f435661c",
+      "title": "Greenland York 11",
+      "img": "assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-composite.jpg",
+      "release_date": "2011-07-01T18:16:10.033Z",
+      "platforms": [
+        { "id": 3, "code": "xbox", "title": "Microsoft Xbox", "icon": "xbox" },
+        { "id": 6, "code": "apple", "title": "Apple Mac Os", "icon": "apple" }
+      ]
+    },
+    {
+      "id": "63220794f025ba72c65fd1c1",
+      "title": "Bulgaria Church 14",
+      "img": "assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-compositeB.jpg",
+      "release_date": "2014-05-02T12:53:48.101Z",
+      "platforms": [
+        { "id": 3, "code": "xbox", "title": "Microsoft Xbox", "icon": "xbox" },
+        {
+          "id": 8,
+          "code": "microsoft",
+          "title": "Microsoft Windows",
+          "icon": "microsoft"
+        },
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" }
+      ]
+    },
+    {
+      "id": "632207940ed3d0d2e0788105",
+      "title": "Northern Mariana Islands Tillman 14",
+      "img": "assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-compositeB.jpg",
+      "release_date": "2014-02-22T04:13:37.082Z",
+      "platforms": [
+        {
+          "id": 8,
+          "code": "microsoft",
+          "title": "Microsoft Windows",
+          "icon": "microsoft"
+        },
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" },
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" }
+      ]
+    },
+    {
+      "id": "6322079463337bea7b0070c8",
+      "title": "Vanuatu Mueller 13",
+      "img": "assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-compositeB.jpg",
+      "release_date": "2013-01-18T07:37:06.731Z",
+      "platforms": [
+        { "id": 6, "code": "apple", "title": "Apple Mac Os", "icon": "apple" },
+        {
+          "id": 1,
+          "code": "android",
+          "title": "Android (Play Store)",
+          "icon": "google-play"
+        },
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" }
+      ]
+    },
+    {
+      "id": "6322079459285d9e78d1714d",
+      "title": "Uruguay Ryan 13",
+      "img": "src/assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-composite.jpg",
+      "release_date": "2013-04-05T05:48:46.501Z",
+      "platforms": [
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" },
+        { "id": 4, "code": "steam", "title": "Steam", "icon": "steam" }
+      ]
+    },
+    {
+      "id": "63220794a3b3f17d7752c4b8",
+      "title": "Saint Kitts and Nevis Odom 11",
+      "img": "assets/images/3d-render-vs-company-metal-letter-logo-pen-tool-created-clipping-path-included-jpeg-easy-compositeB.jpg",
+      "release_date": "2011-09-15T06:49:03.592Z",
+      "platforms": [
+        { "id": 5, "code": "linux", "title": "Linux", "icon": "linux" },
+        {
+          "id": 7,
+          "code": "ios",
+          "title": "IOS (App Store)",
+          "icon": "app-store-ios"
+        }
+      ]
+    }
+  ]
+}
